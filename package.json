@@ -3,6 +3,6 @@
     "start": "sambell run"
   },
   "dependencies": {
-    "sambell": "^0.1.24"
+    "sambell": "^0.3.1"
   }
 }
